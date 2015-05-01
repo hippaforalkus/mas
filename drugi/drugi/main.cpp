@@ -7,7 +7,10 @@ int main()
     int n;
     cout << "Podaj liczbe" << endl;
     cin>>n;
-    cout << ciag(n);
+    for(int a=1;a<=n;a++)
+    {
+        cout << ciag(a)<<endl;
+    }
     getch();
     return( 0 );
 }

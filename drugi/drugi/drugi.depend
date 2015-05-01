@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1430491141 source:c:\users\admin\documents\github\mas\drugi\drugi\t1.cpp
+1430491885 source:c:\users\admin\documents\github\mas\drugi\drugi\t1.cpp
+	<iostream>
 
 1430491027 source:c:\users\admin\documents\github\mas\drugi\drugi\main.cpp
 	<iostream>
