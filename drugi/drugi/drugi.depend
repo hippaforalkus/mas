@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1430491885 source:c:\users\admin\documents\github\mas\drugi\drugi\t1.cpp
+1430493764 source:c:\users\admin\documents\github\mas\drugi\drugi\t1.cpp
 	<iostream>
 
-1430491027 source:c:\users\admin\documents\github\mas\drugi\drugi\main.cpp
+1430493764 source:c:\users\admin\documents\github\mas\drugi\drugi\main.cpp
 	<iostream>
 	<conio.h>
 	"t1.hpp"
 
-1430491367 c:\users\admin\documents\github\mas\drugi\drugi\t1.hpp
+1430493764 c:\users\admin\documents\github\mas\drugi\drugi\t1.hpp
 
