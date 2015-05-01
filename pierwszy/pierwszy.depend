@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1426717111 source:c:\c\pierwszy\pierwszy\main.cpp
+	<iostream>
+	<conio.h>
+	"t1.hpp"
+
+1426717074 c:\c\pierwszy\pierwszy\t1.hpp
+
+1426717077 source:c:\c\pierwszy\pierwszy\t1.cpp
+
